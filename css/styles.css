@@ -1,0 +1,22 @@
+#lowest {
+  display: none;
+}
+
+#low {
+  display: none;
+}
+
+#regLow {
+  display: none;
+}
+
+#regHigh {
+  display: none;
+}
+
+body {
+  background-image: url(/img/Sala_de_cine.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue
+}
